@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I am Deependra
+
+A Computer Science Engineer who believes in learning by doing. I spent around 8 years in building the Products for  [Tydy](https://tydy.co) & [DellEMC](https://www.dell.com/).
+
+Currently, I'm aspiring to be a distribution system engineer.
 
 <!--
 **dsdeependra/dsdeependra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
